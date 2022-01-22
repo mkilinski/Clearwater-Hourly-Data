@@ -1,4 +1,4 @@
-"Date","Time (GMT)","Predicted (m)","Preliminary (m)","Verified (m)"
+"Date","Time (GMT)","Predicted","Preliminary","Verified"
 "2021/01/20","00:00","-0.171","-","-0.139"
 "2021/01/20","01:00","-0.262","-","-0.254"
 "2021/01/20","02:00","-0.334","-","-0.29"
